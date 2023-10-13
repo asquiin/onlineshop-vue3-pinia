@@ -8,12 +8,9 @@
         <router-link class="router-link" to="/Shop"> Shop</router-link>
       </div>
 
-
-
-
       <div class="for-cart">
 
-       <div class="for-quan"> <p>{{ cartItemCount }}</p> </div> 
+       <div class="for-quan"> <p>{{ cartItemCount }}</p> </div>
         <router-link class="router-link" to="/Cart"> Cart</router-link>
       </div>
 

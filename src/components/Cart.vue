@@ -142,7 +142,6 @@ const calculateTotal = (cartItems) => {
 }
 
 .item-content li:nth-child(3){
-
   margin-left: 10px;
 }
 

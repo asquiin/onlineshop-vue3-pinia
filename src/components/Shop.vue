@@ -98,7 +98,6 @@ const filterItems = (category) => {
 
 .for-btns{
   display: flex;
-
   justify-content: center;
   align-items: center;
 }
